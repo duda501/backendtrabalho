@@ -1,0 +1,39 @@
+.Banner{
+    background-color: lightblue;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+.Lista{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    }
+
+.Qualquer-coisa{
+    display: flex;
+}
+
+.Lista1{ 
+    background-color: rgb(164, 253, 223);
+    width: 605px; border: solid 2px white;
+}
+
+.Tudo{
+    display: flex;
+    }
+
+.Principal{
+    background-color: rgb(250, 122, 229);
+    font-family: serif;
+    width: 605px;
+
+}
+
+.Comidas{
+    background-color: lightyellow;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    width: 605px;
+}
